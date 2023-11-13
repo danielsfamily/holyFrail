@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+#app {
+  font-size: 5em;
+  text-align: center;
+  height: 100vh;
+}
+#header {
+  background-color: #F3CA40;
+  height: 25vh;
+  width: 100vw;
+}
+#middle {
+  width: 100vw;
+}
+#main {
+  width: 80%;
+}
+#nav {
+  width: 100vw;
+  background-color: #4B4E6D;
+}
+#articles {
+  height: 40vh;
+  width: 100vw;
+  background-color: #6A8D92;
+}
+#ads {
+  width: 100vw;
+  background-color: #F2A541;
+}
+#footer {
+  height: 15vh;
+  width: 100vw;
+  background-color: #F08A4B;
+}
